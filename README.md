@@ -1,10 +1,13 @@
 
-<a href="https://github.com/Anymoraes5/github-readme-stats">
+<!-- <a href="https://github.com/Anymoraes5/github-readme-stats">
   <img height=180 align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical"/>
-</a>
-<!-- <a href="https://github.com/Anymoraes5/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=saifurrahman1193&theme=algolia&show_icons=true" />
 </a> -->
+<a href="https://github.com/Anymoraes5/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Anymoraes5&theme=algolia&show_icons=true&title_color=ec275f" />
+  <img width="320" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anymoraes5&layout=compact&theme=algolia&show_icons=true&title_color=ec275f" />
+</a> 
+
+
 
 <div style="display: inline_block"><br>
 
